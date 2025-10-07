@@ -1,1 +1,4 @@
-
+Seznam inventarja:
+-računalnik1
+-računalnik2
+-...
